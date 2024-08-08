@@ -1,7 +1,7 @@
 # Это заголовок первого уровня
 ## Это заголовок второго уровня
 
-![Скриншот](screenshot.png)
+![Скриншот](https://github.com/IVKovalev/data_analytics/blob/main/exploratory_data_analysis/screenshot.PNG)
 
 ### Это заголовок третьего уровня
 #### Это заголовок четвёртого уровня
