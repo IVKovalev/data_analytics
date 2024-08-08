@@ -1,7 +1,7 @@
 # Это заголовок первого уровня
 ## Это заголовок второго уровня
 
-<img src="https://github.com/IVKovalev/data_analytics/blob/main/exploratory_data_analysis/screenshot.PNG" alt="Скриншот" width="200"/>
+<img src="https://github.com/IVKovalev/data_analytics/blob/main/exploratory_data_analysis/screenshot.PNG" alt="Скриншот" width="400"/>
 
 ### Это заголовок третьего уровня
 #### Это заголовок четвёртого уровня
