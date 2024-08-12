@@ -1,6 +1,12 @@
 # Исследование объявлений о прадаже недвижимости
 ## Данные и их источник
 
+### The following Python libraries are used in the project:
+```python
+import matplotlib.pyplot as plt
+import pandas as pd
+``` 
+
 <img src="https://github.com/IVKovalev/data_analytics/blob/main/exploratory_data_analysis/screenshot.PNG" alt="Скриншот" width="400"/>
 
 ### Это заголовок третьего уровня
