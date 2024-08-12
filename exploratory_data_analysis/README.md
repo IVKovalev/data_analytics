@@ -1,5 +1,5 @@
 # Исследование объявлений о прадаже недвижимости
-## Это заголовок второго уровня
+## Данные и их источник
 
 <img src="https://github.com/IVKovalev/data_analytics/blob/main/exploratory_data_analysis/screenshot.PNG" alt="Скриншот" width="400"/>
 
