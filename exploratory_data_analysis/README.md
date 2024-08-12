@@ -1,5 +1,9 @@
-# Исследование объявлений о прадаже недвижимости
-## Данные и их источник
+# Research on Real Estate Listings
+## Data and Their Source
+
+The dataset is provided in a CSV file. It contains an archive of real estate Marketplace listings spanning several years, featuring apartment sales in St. Petersburg and surrounding areas.
+
+For each apartment on sale, two types of data are available. The first set of data is provided by the user, and the second set is automatically obtained based on map data.
 
 ### The following Python libraries are used in the project:
 ```python
