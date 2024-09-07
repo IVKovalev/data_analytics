@@ -24,7 +24,7 @@ To conduct a market study of public catering establishments in Moscow for an inv
 •	folium
 •	folium.plugins
 
-<a href="./1_Market Analysis of Public Catering/" style="text-decoration:none;">
+<a href="Market Analysis of Public Catering in Moscow_ENG.ipynb" style="text-decoration:none;">
   <div style="display:inline-block; padding:10px 20px; font-size:18px; font-weight:bold; color:white; background-color:#007bff; border-radius:5px;">
     Go to the project
   </div>
