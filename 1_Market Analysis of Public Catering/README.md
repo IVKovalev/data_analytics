@@ -23,3 +23,9 @@ To conduct a market study of public catering establishments in Moscow for an inv
 •	requests
 •	folium
 •	folium.plugins
+
+<a href="https://example.com" style="text-decoration:none;">
+  <div style="display:inline-block; padding:10px 20px; font-size:16px; font-weight:bold; color:white; background-color:#007bff; border-radius:5px;">
+    Перейти к проекту
+  </div>
+</a>
