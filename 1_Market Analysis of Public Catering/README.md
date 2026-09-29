@@ -18,7 +18,6 @@ Market research for an investment fund planning to open a catering business in M
 - Normalise the district comparison by population and area (coffee shops per 10,000 residents, share of coffee shops among all venues). A low count of coffee shops may mean low demand, not a free niche.
 - Analyse competition around a specific location: the number of coffee shops within 300–500 m (haversine distance or an H3 grid), and "white spots" with many venues but no coffee shops.
 - Check whether the differences are statistically meaningful: bootstrap confidence intervals for ratings and prices, and a rating weighted by the number of reviews.
-- Fix the issues marked with `# Note:` in the notebook: keep one record of each duplicate pair (`keep='first'`), keep only chains in the top-15 chains, use the median for the average bill map, use coffee shops only in the coffee shop rating plot, and correct the swapped axis labels.
 
 **Stack:** Python, pandas, NumPy, matplotlib, seaborn, folium (Choropleth, MarkerCluster, HeatMap), requests, GeoJSON.
 
@@ -46,7 +45,6 @@ Presentation: [Yandex Disk](https://disk.yandex.ru/i/f00gMRuBv3bssg)
 - Нормировать сравнение округов на население и площадь (кофейни на 10 000 жителей, доля кофеен среди всех заведений). Мало кофеен в округе может означать низкий спрос, а не свободную нишу.
 - Проанализировать конкуренцию вокруг конкретной точки: число кофеен в радиусе 300–500 м (расстояние haversine или сетка H3) и «белые пятна», где много заведений, но нет кофеен.
 - Проверить статистическую значимость различий: бутстреп-интервалы для рейтингов и цен, рейтинг с учётом количества отзывов.
-- Исправить замечания, отмеченные в ноутбуке комментариями `# Note:`: оставлять одну запись из каждой пары дубликатов (`keep='first'`), брать в топ-15 сетей только сетевые заведения, строить карту среднего чека по медиане, в графике рейтингов кофеен использовать только кофейни, поправить перепутанные подписи осей.
 
 **Стек:** Python, pandas, NumPy, matplotlib, seaborn, folium (Choropleth, MarkerCluster, HeatMap), requests, GeoJSON.
 
