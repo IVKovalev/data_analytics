@@ -13,10 +13,10 @@ Research for an entertainment app that has been losing money for several months 
 - Payback analysis as of 1 November 2019 with a 14-day horizon (the business plan says a user should pay off within two weeks). Organic users were excluded because they cost nothing. LTV, ROI, CAC, conversion and retention were analysed in total and broken down by device, country and channel.
 - Conclusions and recommendations for the marketing department.
 
-**Result:** the advertising does not pay off. Total spend was about 105,500, and by day 14 the ROI comes close to 100% but never crosses it. User quality (LTV) stays stable, so the problem is the growing cost of acquisition, not worse users. The losses come from one place:
+**Result:** the advertising does not pay off. Total spend was about 105,500, and by day 14 the ROI reaches only about 80%. Only the users acquired in May paid off. User quality (LTV) stays stable, so the problem is the growing cost of acquisition, not worse users. The losses come from one place:
 - **USA:** the biggest market (100,000 users, 6.9% of them pay, against about 4% in Europe), and the only country where the ads do not pay off. Ads pay off in the UK, France and Germany.
-- **TipTop and FaceBoom:** these two channels work only in the USA and take 83% of the budget (52% and 31%). TipTop's CAC grew every month from July and reached 2.8 per user on average, 2.5 times more than FaceBoom (1.1). FaceBoom has the highest share of paying users (12.2%), but these users come back worse than even organic ones.
-- **Devices:** ads do not pay off on iPhone and Mac. Most likely this is because these are the main devices of the US audience, not because of the devices themselves.
+- **TipTop and FaceBoom:** these two channels work only in the USA and take 83% of the budget (52% and 31%). TipTop's CAC grew every month from the end of May and reached 2.8 per user on average, 2.5 times more than FaceBoom (1.1). FaceBoom has the highest share of paying users (12.2%), but its paying users come back the worst of all channels. In Europe the same problem has AdNonSense: high conversion, poor retention, and it is the only European channel that does not pay off.
+- **Devices:** ads do not pay off on iPhone, Mac and Android, only PC users pay off. Most likely this is because iPhone and Mac are the main devices of the US audience, not because of the devices themselves.
 
 **Recommendations:** reconsider the price and terms of the TipTop contract, and change the payment model with TipTop and FaceBoom in the USA so that they are rewarded for keeping users, not only for the first purchase. Part of the budget can move to channels that already pay off in Europe.
 
@@ -44,10 +44,10 @@ Research for an entertainment app that has been losing money for several months 
 - Анализ окупаемости на 1 ноября 2019 года с горизонтом 14 дней (по бизнес-плану пользователь должен окупиться за две недели). Органические пользователи исключены, так как за них ничего не платят. LTV, ROI, CAC, конверсия и удержание разобраны в целом и в разрезе устройств, стран и каналов.
 - Выводы и рекомендации для отдела маркетинга.
 
-**Результат:** реклама не окупается. Всего на неё потрачено около 105 500, и к 14-му дню ROI приближается к 100%, но так и не переходит этот порог. Качество пользователей (LTV) остаётся стабильным, значит, проблема в растущей стоимости привлечения, а не в том, что пользователи стали хуже. Убытки идут из одного места:
+**Результат:** реклама не окупается. Всего на неё потрачено около 105 500, и к 14-му дню ROI доходит только примерно до 80%. Окупились лишь пользователи, привлечённые в мае. Качество пользователей (LTV) остаётся стабильным, значит, проблема в растущей стоимости привлечения, а не в том, что пользователи стали хуже. Убытки идут из одного места:
 - **США:** самый большой рынок (100 000 пользователей, из них платят 6,9% против примерно 4% в Европе) и единственная страна, где реклама не окупается. В Великобритании, Франции и Германии реклама окупается.
-- **TipTop и FaceBoom:** эти два канала работают только в США и забирают 83% бюджета (52% и 31%). CAC у TipTop рос каждый месяц начиная с июля и в среднем достиг 2,8 на пользователя, это в 2,5 раза больше, чем у FaceBoom (1,1). У FaceBoom самая высокая доля платящих (12,2%), но эти пользователи возвращаются хуже, чем даже органические.
-- **Устройства:** реклама не окупается на iPhone и Mac. Скорее всего, это связано с тем, что это главные устройства американской аудитории, а не с самими устройствами.
+- **TipTop и FaceBoom:** эти два канала работают только в США и забирают 83% бюджета (52% и 31%). CAC у TipTop рос каждый месяц начиная с конца мая и в среднем достиг 2,8 на пользователя, это в 2,5 раза больше, чем у FaceBoom (1,1). У FaceBoom самая высокая доля платящих (12,2%), но его платящие пользователи возвращаются хуже, чем у всех остальных каналов. В Европе та же проблема у AdNonSense: высокая конверсия, слабое удержание, и это единственный европейский канал, который не окупается.
+- **Устройства:** реклама не окупается на iPhone, Mac и Android, окупаются только пользователи PC. Скорее всего, это связано с тем, что iPhone и Mac - главные устройства американской аудитории, а не с самими устройствами.
 
 **Рекомендации:** пересмотреть цену и условия договора с TipTop, а также изменить модель оплаты с TipTop и FaceBoom в США, чтобы каналы получали вознаграждение за удержание пользователей, а не только за первую покупку. Часть бюджета можно перенести в каналы, которые уже окупаются в Европе.
 
