@@ -12,7 +12,7 @@ Every project folder has a short description and a Jupyter notebook with the ful
 2. [Event Analysis and A/A/B Testing](2_Event%20Analysis%20and%20A-A-B%20Testing/) - the sales funnel of a food delivery app and an A/A/B test of a new font.
 3. [Market Analysis of Video Games](3_Market%20Analysis%20of%20Video%20Games/) - what makes a video game sell, to plan an online store's advertising for the next year.
 4. [Business Performance Analysis](4_Business%20Performance%20Analysis/) - why an entertainment app loses money on advertising, and what marketing should change.
-5. [Hypothesis Prioritization and Testing](5_Hypothesis%20Prioritization%20and%20Testing/) - ranking ideas to grow an online store's revenue and reading an A/B test (notebook in Russian).
+5. [Hypothesis Prioritization and Testing](5_Hypothesis%20Prioritization%20and%20Testing/) - ranking ideas to grow an online store's revenue and reading an A/B test (chart labels in Russian).
 6. [Real Estate Market Dependencies Analysis](6_Real%20Estate%20Market%20Dependencies%20Analysis/) - which factors affect property prices.
 
 **Skills:** data cleaning, exploratory analysis, data visualization, A/B testing and statistics, product and marketing metrics, writing conclusions for the business.
