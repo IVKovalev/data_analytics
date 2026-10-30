@@ -15,7 +15,7 @@ Every project folder has a short description and a Jupyter notebook with the ful
 5. [Hypothesis Prioritization and Testing](5_Hypothesis%20Prioritization%20and%20Testing/) - ranking ideas to grow an online store's revenue and reading an A/B test (chart labels in Russian).
 6. [Real Estate Market Dependencies Analysis](6_Real%20Estate%20Market%20Dependencies%20Analysis/) - which factors affect property prices.
 
-**Skills:** data cleaning, exploratory analysis, data visualization, A/B testing and statistics, product and marketing metrics, writing conclusions for the business.
+<img src="assets/bulb.svg" height="20" align="top"> **Skills:** data cleaning, exploratory analysis, data visualization, A/B testing and statistics, product and marketing metrics, writing conclusions for the business.
 
 **Stack:** Python, pandas, NumPy, matplotlib, seaborn, plotly, SciPy, Jupyter.
 
@@ -38,6 +38,6 @@ Every project folder has a short description and a Jupyter notebook with the ful
 5. [Приоритизация и проверка гипотез](5_Hypothesis%20Prioritization%20and%20Testing/) - выбор идей для роста выручки интернет-магазина и анализ A/B-теста.
 6. [Анализ рынка недвижимости](6_Real%20Estate%20Market%20Dependencies%20Analysis/) - какие факторы влияют на цены на недвижимость.
 
-**Навыки:** предобработка данных, исследовательский анализ, визуализация, A/B-тесты и статистика, продуктовые и маркетинговые метрики, выводы для бизнеса.
+<img src="assets/bulb.svg" height="20" align="top"> **Навыки:** предобработка данных, исследовательский анализ, визуализация, A/B-тесты и статистика, продуктовые и маркетинговые метрики, выводы для бизнеса.
 
 **Стек:** Python, pandas, NumPy, matplotlib, seaborn, plotly, SciPy, Jupyter.
