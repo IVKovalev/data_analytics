@@ -6,7 +6,7 @@ A collection of my data analysis projects. Each one starts with a real business 
 
 Every project folder has a short description and a Jupyter notebook with the full analysis.
 
-**Projects**
+<img src="assets/typewriter.svg" height="20" align="top"> **Projects**
 
 1. [Market Analysis of Public Catering](1_Market%20Analysis%20of%20Public%20Catering/) - the Moscow restaurant and cafe market, to help an investor choose a place and format for a new coffee shop.
 2. [Event Analysis and A/A/B Testing](2_Event%20Analysis%20and%20A-A-B%20Testing/) - the sales funnel of a food delivery app and an A/A/B test of a new font.
@@ -29,7 +29,7 @@ Every project folder has a short description and a Jupyter notebook with the ful
 
 В папке каждого проекта есть короткое описание и Jupyter-ноутбук с полным анализом.
 
-**Проекты**
+<img src="assets/typewriter.svg" height="20" align="top"> **Проекты**
 
 1. [Анализ рынка общественного питания](1_Market%20Analysis%20of%20Public%20Catering/) - рынок кафе и ресторанов Москвы: помогаем инвестору выбрать место и формат для новой кофейни.
 2. [Анализ событий и A/A/B-тестирование](2_Event%20Analysis%20and%20A-A-B%20Testing/) - воронка продаж приложения доставки еды и A/A/B-тест нового шрифта.
